@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ToDoListAssignment</string>
+    <string name="completed_tasks" />
+    <string name="back" />
+    <string name="submit" />
+    <string name="to_do_list" />
+    <string name="checkBox1" />
+    <string name="checkBox2" />
+    <string name="checkBox3" />
+    <string name="checkBox4" />
+    <string name="checkBox5" />
+    <string name="checkBox6" />
+    <string name="checkBox7" />
+    <string name="checkBox8" />
+    <string name="checkBox9" />
+    <string name="checkBox10" />
+</resources>
